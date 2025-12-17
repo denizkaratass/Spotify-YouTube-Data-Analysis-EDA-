@@ -46,15 +46,10 @@ The primary goal is to analyze the correlation between streaming numbers, views,
 * **Engagement vs. Popularity:** High view counts do not always correlate linearly with high like ratios; specific singles often show more "loyal" engagement.
 * **Format Popularity:** Standard "Album" releases make up the vast majority (over 70%) of the dataset compared to singles and compilations.
 
-y:
----
-*This project was developed to showcase data science and analytical storytelling skills.*:** Standard "Album" releases make up the vast majority (over 70%) of the dataset compared to singles and compilations.
-   
-🚀 How to Run
-Download the Project: Click the green "Code" button above and select "Download ZIP".
-Unzip: Extract the files to a folder on your computer.
-Verify Data: Ensure the dataset file (CSV) is in the same folder as the .ipynb file.
-Launch: Open Flight-Price-Analysis-EDA.ipynb using Jupyter Notebook or VS Code and run the cells.
+## 🚀 How to Run
+1.  **Download the Project:** Click the green "Code" button above and select **"Download ZIP"**.
+2.  **Unzip:** Extract the files to a folder on your computer.
+3.  **Verify Data:** Ensure the dataset file (CSV) is in the same folder as the `.ipynb` file.
+4.  **Launch:** Open `Flight-Price-Analysis-EDA.ipynb` using Jupyter Notebook or VS Code and run the cells.
 
----
 *This project was developed to showcase data science and analytical storytelling skills.*
